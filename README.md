@@ -17,4 +17,4 @@ Google Colab <br>
 
 ## Insights :pencil:
 
-![ScreenShot 1](ZReadme_img/search_results.png)
+![ScreenShot 1](Output/search_results.png)
